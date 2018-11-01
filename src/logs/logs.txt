@@ -1,0 +1,5 @@
+[27.08.2018 - 12:04:08][WARNING] - bcf86693f645e3dc8f514576c9461cd0bcf48b42fca39e2306141ed2bc032290
+[27.08.2018 - 12:05:40][WARNING] - FIREBASE: fYmylktLe6w:APA91bENBIr_yHQW3RhILPdrtadeg_xxZLGj1rGSWn0Ciu6R_Up1W5QXVk2CTxGzx2bxszmhKACPmm-HXa4zvVSrR41D_LTCtJgD-fxIv_S667BQfAnt91auoR8iT-USReHqwTjtFyej
+[27.08.2018 - 12:05:50][WARNING] - registerDevice (push.argentina.gob.ar/) true
+[16.09.2018 - 10:48:49][WARNING] - c3c0c59d36b2237ecbf7f81437a2617d1d34466ea1f5c098c54d9af33c8ccac7
+[16.09.2018 - 10:48:51][WARNING] - updateSettings (push.argentina.gob.ar/) true
